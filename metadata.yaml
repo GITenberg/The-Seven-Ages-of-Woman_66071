@@ -1,5 +1,8 @@
 _repo: The-Seven-Ages-of-Woman_66071
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66071-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKenzie, Compton
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5658
     wikipedia: http://en.wikipedia.org/wiki/Compton_Mackenzie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66071#The-Seven-Ages-of-Woman
 gutenberg_issued: '2021-08-16'
 gutenberg_type: Text
 identifiers:
